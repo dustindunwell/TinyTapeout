@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Toggle inputs to change bars displayed in LED number
 
 ## How to test
 
-Explain how to use your project
+Toggle inputs and see what happens
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Clock source, dip switch, LED number
